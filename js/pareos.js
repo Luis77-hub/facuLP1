@@ -4,12 +4,12 @@ let convertidonumero = Number(numerotexto);
 console.log(convertidonumero, typeof(convertidonumero));
 
 //conversion de string a boolean
-let lazoe = "Zoe";
-let convertida = Boolean(lazoe);
-console.log(lazoe,convertida);
+let luis = "luis";
+let convertida = Boolean(luis);
+console.log(luis,convertida);
 
 
 function saludo(nombre,apellido,cedula) {
     console.log("Hola");
 }
-saludo("Moncha Yamile","ladebarriozombie",5687453);
+saludo("Moncha ","ladebarriozombie",5687453);
